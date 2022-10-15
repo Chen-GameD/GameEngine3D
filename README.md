@@ -1,5 +1,5 @@
-# ChenMingyuan
-
+# GameEngine3D - Mingyuan Chen
+This is the assignment content of the course EAE6320, a project created based on Professor Tony's basic 3D engine template. My main work is to optimize the engine file based on the template, provide a good interface for users to use, and at the same time need to consider the compatibility of OpenGl and D3D graphics libraries and X86 and X64 platforms. And design a new system (animation system, collision system, audio system, etc.) at the end of the course to complete this course.
 
 
 ## Getting started
