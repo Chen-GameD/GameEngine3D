@@ -69,11 +69,11 @@ It is a structure I use to store camera information; changing this data and subm
 ## Visuals
 <div align=center><img src ="https://user-images.githubusercontent.com/58096097/196015987-54a95557-5884-4e84-9d17-c1d6b8e9b4d2.gif"/></div>
 <div align="center"> Camera movement </div>  
-<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196015988-b8231b58-c1a3-41b9-917f-b7513a8498df.gif"/></div>
+<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196016514-b5fd6d9f-5761-44c6-abcd-a55f0378b0d5.gif"/></div>
 <div align="center"> GameObject movement </div>  
-<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196016004-28abffd7-bf92-4829-b4d2-5c85fca2d914.gif"/></div>
+<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196016515-97ee19a9-0727-4351-88c9-bd6740d2dc6f.gif"/></div>
 <div align="center"> Shader change </div>  
-<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196016007-d86526ef-cc51-45fe-b511-e22294a963cd.gif"/></div>
+<div align=center><img src ="https://user-images.githubusercontent.com/58096097/196016516-3ca2f817-acba-4307-aa9c-cffae0a3af80.gif"/></div>
 <div align="center"> Object delete </div>  
 
 ## Roadmap
